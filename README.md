@@ -1,4 +1,4 @@
-# youtube-playlist-downloader
+# yt-playlist-downloader
 
 A Python script to download all videos from a YouTube playlist using **yt-dlp** with parallel downloads.
 
